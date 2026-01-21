@@ -14,3 +14,4 @@ pin = '123456'
 # security requirements
 enable_pin(current_user, pin)
 
+
