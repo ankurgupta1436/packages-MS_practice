@@ -1,5 +1,5 @@
 from timeit import default_timer
-import aiohttp
+import aiohttp 
 import asyncio
 
 async def load_data(session, delay):
